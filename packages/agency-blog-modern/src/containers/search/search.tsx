@@ -23,7 +23,7 @@ function Search() {
               slug
             }
             frontmatter {
-              date(formatString: "MMMM D, YYYY")
+              date(formatString: "MMMM D, YYYY", locale: "tr")
               title
               description
               tags
@@ -90,7 +90,7 @@ function Search() {
           id="Search"
           value={searchQuery}
           onChange={searchData}
-          placeholder="Enter Your Search Topic"
+          placeholder="Arama Konunuzu Girin"
         />
       </SearchForm>
       <SearchResult>
@@ -122,7 +122,7 @@ function Search() {
               ];
               const setColor =
                 placeholderColors[
-                  Math.floor(Math.random() * placeholderColors.length)
+                Math.floor(Math.random() * placeholderColors.length)
                 ];
               return (
                 <PostList

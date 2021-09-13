@@ -71,7 +71,7 @@ const FeaturedPost: React.FunctionComponent<FeaturedPostProps> = ({
               {tags.slice(0, 2).map((tag: string, index: number) => (
                 <Link
                   key={index}
-                  to={`/tags/${_.kebabCase(tag)}/`}
+                  to={`/etiket/${_.kebabCase(tag)}/`}
                 >{`#${tag}`}</Link>
               ))}
             </PostTags>

@@ -123,6 +123,7 @@ export const PostDescription = styled.div`
   p {
     font-size: ${themeGet('fontSizes.4', '16')}px;
     margin-bottom: 2em;
+    text-align: justify;
   }
 
   h1,

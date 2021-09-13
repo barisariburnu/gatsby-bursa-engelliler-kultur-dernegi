@@ -17,9 +17,9 @@ interface MyFormValues {
 }
 
 const SignupSchema = Yup.object().shape({
-  firstName: Yup.string().required('Required'),
-  email: Yup.string().email('Invalid email').required('Required'),
-  message: Yup.string().required('Required'),
+  firstName: Yup.string().required('Gerekli'),
+  email: Yup.string().email('Geçersiz mail').required('Gerekli'),
+  message: Yup.string().required('Gerekli'),
 });
 
 const Contact: React.SFC<{}> = () => {
@@ -27,9 +27,19 @@ const Contact: React.SFC<{}> = () => {
     <Formik
       initialValues={{ firstName: '', email: '', message: '' }}
       onSubmit={(values: MyFormValues, actions: any) => {
-        setTimeout(() => {
-          console.log({ values, actions });
-          alert(JSON.stringify(values, null, 2));
+        setTimeout(async () => {
+          const response = await fetch(`https://getform.io/f/${process.env.GETFORM_KEY}`, {
+            method: "post",
+            headers: {
+              "Content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+            },
+            body: JSON.stringify(values),
+          })
+          if (response.status === 200) {
+            alert("Mail başarıyla iletildi. En kısa sürede sizinle iletişime geçilecektir.");
+          } else {
+            alert("Mail iletilemedi. Tekrar deneyin.");
+          }
           actions.setSubmitting(false);
         }, 700);
       }}
@@ -46,12 +56,11 @@ const Contact: React.SFC<{}> = () => {
           <Form>
             <ContactWrapper>
               <ContactPageTitle>
-                <h2>Contact</h2>
+                <h2>Bize Ulaşın</h2>
                 <p>
-                  StoryHub theme comes with a contact form built-in. You can use
-                  this form with Gatsbay Js service and get up to 50 submissions
-                  for free per form per month. Also, you can easily switch to
-                  another service if you want.
+                  Bursa Engelliler Kültür Derneği,
+                  Türkiye Cumhuriyeti vatandaşı olan tüm engellilerin dayanışmasını sağlamak amacıyla kurulmuştur.
+                  Soru ve görüşleriniz için bize yazın.
                 </p>
               </ContactPageTitle>
               <ContactFromWrapper>
@@ -62,12 +71,11 @@ const Contact: React.SFC<{}> = () => {
                     value={`${values.firstName}`}
                     onChange={handleChange}
                     onBlur={handleBlur}
-                    label="Name"
-                    notification={`${
-                      errors.firstName && touched.firstName
-                        ? errors.firstName
-                        : ''
-                    }`}
+                    label="Adı Soyadı"
+                    notification={`${errors.firstName && touched.firstName
+                      ? errors.firstName
+                      : ''
+                      }`}
                   />
                   <Input
                     type="email"
@@ -75,10 +83,9 @@ const Contact: React.SFC<{}> = () => {
                     value={`${values.email}`}
                     onChange={handleChange}
                     onBlur={handleBlur}
-                    label="Email"
-                    notification={`${
-                      errors.email && touched.email ? errors.email : ''
-                    }`}
+                    label="E-mail"
+                    notification={`${errors.email && touched.email ? errors.email : ''
+                      }`}
                   />
                 </InputGroup>
                 <Input
@@ -87,16 +94,16 @@ const Contact: React.SFC<{}> = () => {
                   value={`${values.message}`}
                   onChange={handleChange}
                   onBlur={handleBlur}
-                  label="Message"
+                  label="Konu"
                   notification={
                     errors.message && touched.message ? errors.message : ''
                   }
                 />
                 <Button
-                  title="Submit"
+                  title="Gönder"
                   type="submit"
                   isLoading={isSubmitting ? true : false}
-                  loader="Submitting.."
+                  loader="Gönderiliyor.."
                 />
               </ContactFromWrapper>
             </ContactWrapper>

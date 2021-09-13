@@ -69,7 +69,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "DD [<span>] MMMM [</span>]")
+            date(formatString: "DD [<span>] MMMM [</span>]", locale: "tr")
             title
             categories
             cover {

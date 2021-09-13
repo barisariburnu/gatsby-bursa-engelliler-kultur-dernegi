@@ -30,7 +30,7 @@ const SimpleSwiper = () => {
 							}
 						}
 						frontmatter {
-							date(formatString: "MMM DD, YYYY")
+							date(formatString: "MMM DD, YYYY", locale: "tr")
 							title
 							description
 							tags

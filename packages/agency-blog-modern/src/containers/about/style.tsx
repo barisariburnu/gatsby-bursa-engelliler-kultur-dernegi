@@ -61,6 +61,12 @@ export const AboutDetails = styled.div`
       margin-bottom: 25px;
     }
   }
+
+  a {
+    font-weight: 500;
+    transition: 0.15s ease-in-out;
+    color: ${themeGet('primary', '#D10068')};
+  }
 `;
 export const SocialProfiles = styled.div`
   margin-top: 60px;

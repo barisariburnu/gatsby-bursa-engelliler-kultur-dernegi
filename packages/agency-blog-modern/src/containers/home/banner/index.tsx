@@ -10,8 +10,8 @@ const Banner: React.FunctionComponent<BannerProps> = () => {
     query {
       allMarkdownRemark(
         sort: { fields: [frontmatter___date], order: DESC }
-        limit: 5
-        filter: { frontmatter: { tags: { eq: "featured" } } }
+        limit: 4
+        filter: { frontmatter: { featured: { eq: true } } }
       ) {
         totalCount
         edges {
@@ -21,7 +21,7 @@ const Banner: React.FunctionComponent<BannerProps> = () => {
               slug
             }
             frontmatter {
-              date(formatString: "DD [<span>] MMM [</span>]")
+              date(formatString: "DD [<span>] MMM [</span>]", locale: "tr")
               title
               description
               tags
@@ -45,7 +45,7 @@ const Banner: React.FunctionComponent<BannerProps> = () => {
     <BannerWrapper>
       <BannerInner>
         <FeaturePosts>
-          <Title>Featured Posts</Title>
+          <Title>Öne Çıkan Gönderiler</Title>
           {Posts.map(({ node }: any) => {
             const title = node.frontmatter.title || node.fields.slug;
             // Random Placeholder Color
@@ -63,7 +63,7 @@ const Banner: React.FunctionComponent<BannerProps> = () => {
             ];
             const setColor =
               placeholderColors[
-                Math.floor(Math.random() * placeholderColors.length)
+              Math.floor(Math.random() * placeholderColors.length)
               ];
 
             return (

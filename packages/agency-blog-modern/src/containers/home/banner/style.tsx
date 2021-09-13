@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import { themeGet } from '@styled-system/theme-get';
-import BannerBG from '../../../images/banner-bg.jpg';
+import BannerBG from '../../../images/banner-bg.png';
 
 export const BannerWrapper = styled.div`
   position: relative;

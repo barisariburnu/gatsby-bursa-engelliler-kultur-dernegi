@@ -42,7 +42,7 @@ const Posts: React.FunctionComponent<PostsProps> = () => {
               }
             }
             frontmatter {
-              date(formatString: "MMM DD, YYYY")
+              date(formatString: "MMM DD, YYYY", locale: "tr")
               title
               description
               tags

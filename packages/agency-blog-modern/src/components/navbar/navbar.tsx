@@ -14,7 +14,7 @@ import HeaderWrapper, {
   SearchCloseButton,
   NavSearchFromWrapper,
 } from './navbar.style';
-import LogoImage from '../../images/logo.png';
+import LogoImage from '../../images/logo.svg';
 
 type NavbarProps = {
   className?: string;
@@ -22,20 +22,20 @@ type NavbarProps = {
 
 const MenuItems = [
   {
-    label: 'Home',
+    label: 'Anasayfa',
     url: '/',
   },
   {
-    label: 'About',
-    url: '/about',
+    label: 'Kurumsal',
+    url: '/kurumsal',
   },
   {
-    label: 'Contact',
-    url: '/contact',
+    label: 'Duyurular',
+    url: '/bizden-haberler',
   },
   {
-    label: '404 Page',
-    url: '/404',
+    label: 'Bize Ulaşın',
+    url: '/bize-ulasin',
   },
 ];
 

@@ -69,14 +69,14 @@ const BlogPostTemplate = (props: any) => {
             {post.frontmatter.tags == null ? null : (
               <PostTags className="post_tags">
                 {post.frontmatter.tags.map((tag: string, index: number) => (
-                  <Link key={index} to={`/tags/${_.kebabCase(tag)}/`}>
+                  <Link key={index} to={`/etiket/${_.kebabCase(tag)}/`}>
                     {`#${tag}`}
                   </Link>
                 ))}
               </PostTags>
             )}
             <PostShare>
-              <span>Share This:</span>
+              <span>Paylaş:</span>
               <FacebookShareButton url={shareUrl} quote={post.excerpt}>
                 <IoLogoFacebook />
               </FacebookShareButton>
@@ -107,7 +107,7 @@ const BlogPostTemplate = (props: any) => {
 
       {edges.length !== 0 && (
         <RelatedPostWrapper>
-          <RelatedPostTitle>Related Posts</RelatedPostTitle>
+          <RelatedPostTitle>Benzer Gönderiler</RelatedPostTitle>
           <RelatedPostItems>
             {edges.map(({ node }: any) => {
               // Random Placeholder Color
@@ -125,7 +125,7 @@ const BlogPostTemplate = (props: any) => {
               ];
               const setColor =
                 placeholderColors[
-                  Math.floor(Math.random() * placeholderColors.length)
+                Math.floor(Math.random() * placeholderColors.length)
                 ];
               return (
                 <RelatedPostItem key={node.fields.slug}>
@@ -168,7 +168,7 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
-        date(formatString: "DD MMM, YYYY")
+        date(formatString: "DD MMM, YYYY", locale: "tr")
         description
         tags
         cover {

@@ -21,7 +21,7 @@ const Posts: React.FunctionComponent<PostsProps> = () => {
               slug
             }
             frontmatter {
-              date(formatString: "DD [<span>] MMM [</span>]")
+              date(formatString: "DD [<span>] MMM [</span>]", locale: "tr")
               title
               description
               tags
@@ -61,7 +61,7 @@ const Posts: React.FunctionComponent<PostsProps> = () => {
           ];
           const setColor =
             placeholderColors[
-              Math.floor(Math.random() * placeholderColors.length)
+            Math.floor(Math.random() * placeholderColors.length)
             ];
 
           return (
@@ -85,8 +85,8 @@ const Posts: React.FunctionComponent<PostsProps> = () => {
         })}
       </PostRow>
       <SeeMore>
-        <Link to="page/1">
-          <Button title="See more" type="submit" />
+        <Link to="/bizden-haberler/1">
+          <Button title="Daha fazlasını gör" type="submit" />
         </Link>
       </SeeMore>
     </BlogPostsWrapper>

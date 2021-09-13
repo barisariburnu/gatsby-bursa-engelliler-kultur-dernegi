@@ -78,7 +78,7 @@ const PostCardModern: React.FunctionComponent<PostCardModernProps> = ({
         {tags == null ? null : (
           <PostTags className="post_tags">
             {tags.map((tag: string, index: number) => (
-              <Link key={index} to={`/tags/${_.kebabCase(tag)}/`}>
+              <Link key={index} to={`/etiket/${_.kebabCase(tag)}/`}>
                 {`#${tag}`}
               </Link>
             ))}

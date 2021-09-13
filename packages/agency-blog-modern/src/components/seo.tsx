@@ -77,9 +77,9 @@ const SEO: React.FunctionComponent<SEOProps> = ({
         .concat(
           keywords.length > 0
             ? {
-                name: `keywords`,
-                content: keywords.join(`, `),
-              }
+              name: `keywords`,
+              content: keywords.join(`, `),
+            }
             : []
         )
         .concat(meta)}
@@ -88,7 +88,7 @@ const SEO: React.FunctionComponent<SEOProps> = ({
 }
 
 SEO.defaultProps = {
-  lang: `en`,
+  lang: `tr`,
   meta: [],
   keywords: [],
   description: ``,

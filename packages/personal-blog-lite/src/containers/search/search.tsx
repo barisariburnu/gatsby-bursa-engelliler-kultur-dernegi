@@ -24,7 +24,7 @@ function Search() {
               slug
             }
             frontmatter {
-              date(formatString: "MMMM D, YYYY")
+              date(formatString: "MMMM D, YYYY", locale: "tr")
               title
               description
               tags

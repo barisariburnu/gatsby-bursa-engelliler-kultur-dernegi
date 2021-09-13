@@ -11,12 +11,12 @@ const Tags = ({ pageContext, data }: any) => {
 
   return (
     <Layout>
-      <SEO title={tag} description={`A collection of ${totalCount} post`} />
+      <SEO title={tag} description={`${totalCount} gönderi`} />
 
       <TagPostsWrapper>
         <TagPageHeading>
           <TagName>{tag}</TagName>
-          {`A collection of ${totalCount} post`}
+          {`${totalCount} gönderi bulundu`}
         </TagPageHeading>
         {edges.map(({ node, index }: any) => (
           <PostCard
@@ -50,7 +50,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "DD [<span>] MMMM [</span>]")
+            date(formatString: "DD [<span>] MMMM [</span>]", locale: "tr")
             title
             tags
             description

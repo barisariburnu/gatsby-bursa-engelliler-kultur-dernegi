@@ -10,7 +10,7 @@ import {
   Icon,
 } from './style';
 
-interface NotFoundProps {}
+interface NotFoundProps { }
 
 const NotFound: React.FunctionComponent<NotFoundProps> = () => {
   const Data = useStaticQuery(graphql`
@@ -34,22 +34,21 @@ const NotFound: React.FunctionComponent<NotFoundProps> = () => {
   return (
     <NotFoundWrapper>
       <NotFoundContent>
-        <h1>This Page Was Lost</h1>
+        <h1>Sayfa Bulunamadı</h1>
         <p>
-          The Page You are looking for isn’t available. Try to search again or
-          use the Go Back button below.
+          Aradığınız sayfa mevcut değil. Tekrar aramayı deneyin veya aşağıdaki "Geri Dön" düğmesini kullanın.
         </p>
         <Goback>
           <Link to="/">
             <Icon>
               <IoMdArrowRoundBack />
             </Icon>
-            Go Back
+            Geri Dön
           </Link>
         </Goback>
       </NotFoundContent>
       <NotFoundImage>
-        <Image fluid={Data.avatar.childImageSharp.fluid} alt="author" />
+        <Image fluid={Data.avatar.childImageSharp.fluid} alt="Bursa Engelliler Kültür Derneği" />
       </NotFoundImage>
     </NotFoundWrapper>
   );

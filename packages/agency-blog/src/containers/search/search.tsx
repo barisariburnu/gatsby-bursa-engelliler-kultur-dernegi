@@ -9,7 +9,6 @@ import {
   SearchForm,
   SearchResult,
   NoResult,
-  SearchResultContainer,
 } from "./search.style"
 
 function Search() {
@@ -24,7 +23,7 @@ function Search() {
               slug
             }
             frontmatter {
-              date(formatString: "MMMM D, YYYY")
+              date(formatString: "MMMM D, YYYY", locale: "tr")
               title
               description
               tags
@@ -81,7 +80,7 @@ function Search() {
     }
   }, [dataset])
 
-  const { totalData, searchResults, searchQuery } = state
+  const { searchResults, searchQuery } = state
   const queryResults = searchResults
 
   return (

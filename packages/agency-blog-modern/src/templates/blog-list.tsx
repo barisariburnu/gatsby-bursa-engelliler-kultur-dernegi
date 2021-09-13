@@ -13,14 +13,14 @@ const BlogList = (props: any) => {
   const isFirst = currentPage === 1;
   const isLast = currentPage === numPages;
   const prevPage =
-    currentPage - 1 === 1 ? '/page/1' : `/page/${(currentPage - 1).toString()}`;
-  const nextPage = `/page/${(currentPage + 1).toString()}`;
+    currentPage - 1 === 1 ? '/bizden-haberler/1' : `/bizden-haberler/${(currentPage - 1).toString()}`;
+  const nextPage = `/bizden-haberler/${(currentPage + 1).toString()}`;
   const PrevLink = !isFirst && prevPage;
   const NextLink = !isLast && nextPage;
 
   return (
     <Layout>
-      <SEO title={`Page ${currentPage}`} />
+      <SEO title={`Sayfa ${currentPage}`} />
 
       <BlogPostsWrapper>
         <PostRow>
@@ -40,7 +40,7 @@ const BlogList = (props: any) => {
             ];
             const setColor =
               placeholderColors[
-                Math.floor(Math.random() * placeholderColors.length)
+              Math.floor(Math.random() * placeholderColors.length)
               ];
             return (
               <PostGrid>
@@ -97,7 +97,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "DD [<span>] MMMM [</span>]")
+            date(formatString: "DD [<span>] MMMM [</span>]", locale: "tr")
             title
             description
             tags

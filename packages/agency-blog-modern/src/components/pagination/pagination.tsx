@@ -28,17 +28,17 @@ const Pagination: React.FunctionComponent<PaginationProps> = ({
     <PaginationWrapper {...props} className={className}>
       <PrevPage>
         {prevLink && (
-          <Link to={`${prevLink}`} aria-label="Prev">
+          <Link to={`${prevLink}`} aria-label="Önceki">
             <IoMdArrowRoundBack />
           </Link>
         )}
       </PrevPage>
 
-      <PageNumber>{`Page ${currentPage} Of ${totalPage}`}</PageNumber>
+      <PageNumber>{`${currentPage} / ${totalPage}`}</PageNumber>
 
       <NextPage>
         {nextLink && (
-          <Link to={`${nextLink}`} aria-label="Next">
+          <Link to={`${nextLink}`} aria-label="Sonraki">
             <IoMdArrowRoundForward />
           </Link>
         )}

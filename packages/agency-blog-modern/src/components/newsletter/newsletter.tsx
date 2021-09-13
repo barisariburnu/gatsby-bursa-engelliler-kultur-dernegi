@@ -43,10 +43,10 @@ const Newsletter: React.FunctionComponent<NewsletterProps> = ({ ...props }) => {
     <NewsletterWrapper {...props}>
       <NewsletterInnerWrapper>
         <NewsletterTitle>
-          Get The Best Of All Hands Delivered To Your Inbox
+          En Son Gelişmelerden İlk Siz Haberdar Olun
         </NewsletterTitle>
         <NewsletterDescription>
-          Subscribe to our newsletter and stay updated.
+          Bültenimize abone olun ve güncel kalın.
         </NewsletterDescription>
 
         <NewsletterInputWrapper onSubmit={handleSubmit}>
@@ -57,12 +57,12 @@ const Newsletter: React.FunctionComponent<NewsletterProps> = ({ ...props }) => {
               <Input
                 type="email"
                 name="email"
-                placeholder="Write your email here"
+                placeholder="E-mail adresinizi yazın"
                 onChange={handleChange}
                 value={email}
                 required={true}
               />
-              <Button title="Subscribe" type="submit" />
+              <Button title="Abone ol" type="submit" />
             </>
           )}
         </NewsletterInputWrapper>
