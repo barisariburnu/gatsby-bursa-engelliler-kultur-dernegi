@@ -77,9 +77,16 @@ module.exports = {
             resolve: `gatsby-plugin-sharp`,
         },
         {
-            resolve: `gatsby-plugin-google-analytics`,
+            resolve: `gatsby-plugin-google-gtag`,
             options: {
-                trackingId: process.env.GOOGLE_ANALYTICS_TRACKING_ID, //`ADD YOUR TRACKING ID HERE`,
+                trackingIds: [
+                    process.env.GOOGLE_ANALYTICS_TRACKING_ID, // Google Analytics / GA
+                ],
+                // This object is used for configuration specific to this plugin
+                pluginConfig: {
+                    // Puts tracking script in the head instead of the body
+                    head: true,
+                },
             },
         },
         {
