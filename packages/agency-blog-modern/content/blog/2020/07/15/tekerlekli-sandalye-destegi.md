@@ -11,4 +11,4 @@ Bursa Engelliler Kültür Derneği olarak ihtiyacı olan engelli üyemize tekerl
 
 Bizlere maddi destekte bulunan yardımseverlerimize canı gönülden teşekkür ederiz.
 
-Desteğimize ait görsellere [buradan](https://photos.app.goo.gl/rvCLAc855UDGuAnY8) ulaşabilirsiniz.
+Desteğimize ait görsellere <a href="https://photos.app.goo.gl/rvCLAc855UDGuAnY8" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

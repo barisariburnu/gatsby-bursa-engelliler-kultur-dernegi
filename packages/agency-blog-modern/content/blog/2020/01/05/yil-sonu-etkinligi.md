@@ -11,4 +11,4 @@ featured: true
 
 Bu etkinliğin gerçekleştirilmesi için bizlere destek olan tüm sponsorlarımıza ve tabi ki en önemlisi bizleri bu yemekte yalnız bırakmayan değerli üyelerimize canı gönülden teşekkür ederiz.
 
-Etkinliğimize ait görsellere [buradan](https://photos.app.goo.gl/HKyJj6T816zDMJeY9) ulaşabilirsiniz.
+Etkinliğimize ait görsellere <a href="https://photos.app.goo.gl/HKyJj6T816zDMJeY9" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

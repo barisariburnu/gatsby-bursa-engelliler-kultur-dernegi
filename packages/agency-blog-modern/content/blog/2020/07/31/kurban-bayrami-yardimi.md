@@ -9,4 +9,4 @@ featured: true
 
 Bursa Engelliler Kültür Derneği olarak düzenli olarak gerçekleştirdiğimiz kurban yardımlarını bu yıl kurban bayramında da sürdürdük. Bizleri bu bayramda unutmayan ve paylarını bağışlayarak destekte bulunan yardımseverlerimize canı gönülden teşekkür ederiz.
 
-Yardımlarımıza ait görsellere [buradan](https://photos.app.goo.gl/fKDSygouywZBrjf36) ulaşabilirsiniz.
+Yardımlarımıza ait görsellere <a href="https://photos.app.goo.gl/fKDSygouywZBrjf36" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

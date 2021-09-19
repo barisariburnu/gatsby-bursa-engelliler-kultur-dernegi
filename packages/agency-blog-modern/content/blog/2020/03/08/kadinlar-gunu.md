@@ -11,4 +11,4 @@ Bursa Engelliler Meclisi 14 Mart’ta Kadınlar Günü münasebetiyle Uygar Gör
 
 Tüm kadınlar gününü tebrik ediyorum. Kadınlar gününün bir gün değil, yılın her günü kutlanmasını şahsım adına istiyorum. Kadınlar gününüzün sağlık mutluluk ve huzur içinde geçmesi dileğiyle.
 
-Etkinliğimize ait görsellere [buradan](https://photos.app.goo.gl/gACGNRSb5cBdJ9EH9) ulaşabilirsiniz.
+Etkinliğimize ait görsellere <a href="https://photos.app.goo.gl/gACGNRSb5cBdJ9EH9" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

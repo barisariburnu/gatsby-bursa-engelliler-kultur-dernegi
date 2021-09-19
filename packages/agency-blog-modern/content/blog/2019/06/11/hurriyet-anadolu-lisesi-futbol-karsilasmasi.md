@@ -13,4 +13,4 @@ Teklif üzerine; 2 Eylül Görme Engelliler Gençlik ve Spor Kulübü ile ortakl
 
 Bu güzel etkinlikte bizleri yalnız bırakmayan tüm üyelerimiz ve Hürriyet Anadolu Lisesi ailesine canı gönülden teşekkürlerimizi sunarız.
 
-Etkinliğimize ait görsellere [buradan](https://photos.app.goo.gl/YZWQL3UK9SxbAiFP6) ulaşabilirsiniz.
+Etkinliğimize ait görsellere <a href="https://photos.app.goo.gl/YZWQL3UK9SxbAiFP6" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

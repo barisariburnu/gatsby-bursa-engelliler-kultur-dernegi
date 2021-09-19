@@ -9,4 +9,4 @@ featured: true
 
 Bursa Engelliler İl Meclisi Olağan Toplantısı pandemi tedbirleri kapsamında açık havada gerçekleştirilmiştir. Bursa Engelliler Kültür Derneği ailesi olarak bu toplantıya bizlerde katılım sağladık.
 
-Toplantımıza ait görsellere [buradan](https://photos.app.goo.gl/9fJfsM2LRzugEMDc7) ulaşabilirsiniz.
+Toplantımıza ait görsellere <a href="https://photos.app.goo.gl/9fJfsM2LRzugEMDc7" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

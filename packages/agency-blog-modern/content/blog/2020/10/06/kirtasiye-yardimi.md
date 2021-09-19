@@ -11,4 +11,4 @@ Bursa Engelliler Kültür Derneği ailesi olarak zihinsel engelli üyemiz Suat�
 
 Suat’ın kırtasiye ihtiyaçlarını karşılayan hem üyemiz hem destekçimiz Şenol Ahmetoğlu’na desteklerinden dolayı canı gönülden teşekkür ederiz.
 
-Yardımlarımıza ait görsellere [buradan](https://photos.app.goo.gl/A39CYANGPjMVVnUt9) ulaşabilirsiniz.
+Yardımlarımıza ait görsellere <a href="https://photos.app.goo.gl/A39CYANGPjMVVnUt9" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

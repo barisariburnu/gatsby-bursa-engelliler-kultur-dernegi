@@ -9,4 +9,4 @@ featured: true
 
 Engelliler Şube Müdürlüğü'nde STK Başkanları, Konfederasyon Başkanı ve Yönetim Kurulu olağanüstü toplantı gerçekleştirdi. Bursa Engelliler Kültür Derneği ailesi olarak bu toplantıya bizlerde katılım sağladık.
 
-Toplantımıza ait görsellere [buradan](https://photos.app.goo.gl/UGyZ4VDPMYJHbgCeA) ulaşabilirsiniz.
+Toplantımıza ait görsellere <a href="https://photos.app.goo.gl/UGyZ4VDPMYJHbgCeA" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

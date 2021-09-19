@@ -13,4 +13,4 @@ Bu hususta; Bursa Büyükşehir Belediyesi Akıllı Şehircilik ve İnovasyon Da
 
 Bizlere bu hususta destek olan; Bursa Büyükşehir Belediyesi Akıllı Şehircilik ve İnovasyon Dairesi Başkanı Cüneyt Taşkesen, Coğrafi Bilgi Sistemleri Şube Müdürü Ali Köşker, Bilim ve Teknoloji Şube Müdürü Ayşe Hacıoğlu'na teşekkür ederiz.
 
-Ziyaretimize ait görsellere [buradan](https://photos.app.goo.gl/dbXbZsvC6p1SwkNi8) ulaşabilirsiniz.
+Ziyaretimize ait görsellere <a href="https://photos.app.goo.gl/dbXbZsvC6p1SwkNi8" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

@@ -13,4 +13,4 @@ Bu süreçte; bizlere maddi destekte bulunan yardımseverlerimize canı gönüld
 
 SON DURUM: Hatice Hanım'ın ameliyatı gerçekleşmiş olup hayatını idame ettirecek duruma gelmiştir.
 
-Dekontlara ait görsellere [buradan](https://photos.app.goo.gl/v4UdiUp5RQYW2xz67) ulaşabilirsiniz.
+Dekontlara ait görsellere <a href="https://photos.app.goo.gl/v4UdiUp5RQYW2xz67" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

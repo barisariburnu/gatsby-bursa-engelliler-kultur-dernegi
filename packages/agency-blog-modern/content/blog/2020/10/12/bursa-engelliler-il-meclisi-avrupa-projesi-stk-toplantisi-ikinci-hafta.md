@@ -9,4 +9,4 @@ featured: true
 
 Bursa Engelliler Kültür Derneği ailesi olarak Bursa Engelliler İl Meclisi tarafından düzenlenen Avrupa Projesi STK toplantısının ikinci hafta oturumlarına katılım sağladık. Toplantıların takipçisi olmaya devam ediyoruz.
 
-Toplantımıza ait görsellere [buradan](https://photos.app.goo.gl/fvhQa5zjH6DJdkS96) ulaşabilirsiniz.
+Toplantımıza ait görsellere <a href="https://photos.app.goo.gl/fvhQa5zjH6DJdkS96" target="_blank" rel="noopener noreferrer">buradan</a>

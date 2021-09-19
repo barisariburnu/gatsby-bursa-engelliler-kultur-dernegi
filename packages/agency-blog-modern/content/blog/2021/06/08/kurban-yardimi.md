@@ -11,4 +11,4 @@ Bursa Engelliler Kültür Derneği ailesi olarak daimi destekçimiz Plaskal Plas
 
 Bizlere her daim maddi ve manevi desteklerini esirgemeyen Plaskal Plastik ailesine ve Hakan Efe beyefendiye desteklerinden ötürü canı gönülden teşekkür ederiz.
 
-Desteklerimize ait görsellere [buradan](https://photos.app.goo.gl/rtRsfuGZJH1UqaNK9) ulaşabilirsiniz.
+Desteklerimize ait görsellere <a href="https://photos.app.goo.gl/rtRsfuGZJH1UqaNK9" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

@@ -25,4 +25,4 @@ Firmaların iş tanımları ve engelli üyelerimizin çalışma durumlarının g
 
 Engelli istihdamı sağlamak isteyen firmalarımızın bu toplantılara daha fazla katılımını ümit ederiz. İstihdam sahibi olan engelli üyelerimize iş hayatlarında başarılar dileriz.
 
-Görüşmelerimize ait görsellere [buradan](https://photos.app.goo.gl/S1qssX52Dq5Cj7PZ7) ulaşabilirsiniz.
+Görüşmelerimize ait görsellere <a href="https://photos.app.goo.gl/S1qssX52Dq5Cj7PZ7" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

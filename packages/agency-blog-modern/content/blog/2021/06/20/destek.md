@@ -11,4 +11,4 @@ featured: true
 
 Engelli ailemizin ihtiyaçlarını karşılamamızda katkı sağlayan tüm yardımseverlerimize Bursa Engelliler Kültür Derneği Yönetimi Kurulu adına teşekkür ederiz.
 
-Desteklerimize ait görsellere [buradan](https://photos.app.goo.gl/wCGDfeHUJ7Uv32a16) ulaşabilirsiniz.
+Desteklerimize ait görsellere <a href="https://photos.app.goo.gl/wCGDfeHUJ7Uv32a16" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

@@ -11,4 +11,4 @@ Bursa Engelliler Kültür Derneği ailesi olarak destekçilerimiz tarafından ku
 
 Bizlere her daim maddi ve manevi desteklerini esirgemeyen destekçilerimize canı gönülden teşekkür ederiz.
 
-Desteklerimize ait görsellere [buradan](https://photos.app.goo.gl/rtRsfuGZJH1UqaNK9) ulaşabilirsiniz.
+Desteklerimize ait görsellere <a href="https://photos.app.goo.gl/rtRsfuGZJH1UqaNK9" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

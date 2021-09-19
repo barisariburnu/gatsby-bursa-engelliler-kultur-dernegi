@@ -17,4 +17,4 @@ Sayılı gün çabuk geçiyor. Değerli ailemiz için kiralık ev arayışımız
 
 Not: Benzer acil ihtiyaçlara sahip engelli ailelerimiz bulunmaktadır. Derneğimizin maddi gücü tüm ailelerimize tek seferde destek olmaya yetmediğinden acil ihtiyaç durumlarını dikkate alarak ailelerimize ivedi olarak destek olmak gayreti içerisindeyiz.
 
-İhtiyaç sahibimizin durumunu ait görsellere [buradan](https://photos.app.goo.gl/bhUiHQQrZAc9UTkB) ulaşabilirsiniz.
+İhtiyaç sahibimizin durumunu ait görsellere <a href="https://photos.app.goo.gl/bhUiHQQrZAc9UTkB" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

@@ -9,4 +9,4 @@ featured: true
 
 Bursa Engelliler İl Meclisimiz İkinci Olağan Toplantımızı 22 Ocak 2020 tarihinde Türkiye Sakatlar Derneğinde gerçekleştirdik. Toplantıların takipçisi olmaya devam ediyoruz.
 
-Toplantımıza ait görsellere [buradan](https://photos.app.goo.gl/oQshWowm4jGPVkn59) ulaşabilirsiniz.
+Toplantımıza ait görsellere <a href="https://photos.app.goo.gl/oQshWowm4jGPVkn59" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

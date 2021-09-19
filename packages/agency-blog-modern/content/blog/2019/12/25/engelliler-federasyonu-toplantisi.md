@@ -9,4 +9,4 @@ featured: true
 
 Engelliler Konfederasyonu'nun iki günlük toplantına katıldık. Bursa Engelliler Kültür Derneği ailesi olarak engellilere dair gerçekleştirilen tüm toplantıların takipçisiyiz. Söz hakkımızı her daim kullanmaya gayret gösteriyoruz.
 
-Toplantımıza ait görsellere [buradan](https://photos.app.goo.gl/Wq2P6EVqXZkh5jmX8) ulaşabilirsiniz.
+Toplantımıza ait görsellere <a href="https://photos.app.goo.gl/Wq2P6EVqXZkh5jmX8" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

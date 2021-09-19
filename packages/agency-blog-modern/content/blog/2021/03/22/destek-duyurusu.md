@@ -17,4 +17,4 @@ Not: Çocuklarımızın okuluna yakın bir konumda kiraladığımız evin 1 yıl
 
 Not 2: Benzer acil ihtiyaçlara sahip 4 engelli ailemiz daha bulunmaktadır. Derneğimizin maddi gücü tüm ailelerimize tek seferde destek olmaya yetmediğinden acil ihtiyaç durumlarını dikkate alarak ailelerimize ivedi olarak destek olmak gayreti içerisindeyiz.
 
-İhtiyaç sahibimizin durumunu ait görsellere [buradan](https://photos.app.goo.gl/BkmYjzUnX3NrfYuL6) ulaşabilirsiniz.
+İhtiyaç sahibimizin durumunu ait görsellere <a href="https://photos.app.goo.gl/BkmYjzUnX3NrfYuL6" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

@@ -11,4 +11,4 @@ Bursa Büyükşehir Belediyesi Genel Sekreteri Ulaş Akhan Bey'i makamında ziya
 
 Ulaş Akhan Beyefendinin bizlere olan yaklaşımı ve ilgisinden dolayı kendi platformumuz üzerinden birkez daha teşekkürlerimizi sunarız.
 
-Ziyaretimize ait görsellere [buradan](https://photos.app.goo.gl/KamvifSidQTxKxsM8) ulaşabilirsiniz.
+Ziyaretimize ait görsellere <a href="https://photos.app.goo.gl/KamvifSidQTxKxsM8" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

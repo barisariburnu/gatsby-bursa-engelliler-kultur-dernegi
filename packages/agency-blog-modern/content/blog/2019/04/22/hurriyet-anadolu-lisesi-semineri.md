@@ -11,4 +11,4 @@ Bursa Engelliler Kültür Derneği ailesi olarak Hürriyet Anadolu Lisesinde ö�
 
 Bizlere değer verip, sorularını ve düşüncelerini paylaştıkları için tüm genç arkadaşlarımıza canı gönülden teşekkürlerimizi sunarız.
 
-Etkinliğimize ait görsellere [buradan](https://photos.app.goo.gl/R3CXuNPfZgk1HNNfA) ulaşabilirsiniz.
+Etkinliğimize ait görsellere <a href="https://photos.app.goo.gl/R3CXuNPfZgk1HNNfA" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

@@ -9,4 +9,4 @@ featured: true
 
 Evinde eşya sıkıntısı yaşayan ailemizin eşya ihtiyacı kıymetli destekçilerimiz tarafından karşılanmıştır. Bursa Engelliler Kültür Derneği ailesi olarak bizleri aracı yaptıkları için minnettarız. Desteklerini esirgemeyen destekçilerimize canı gönülden teşekkür ederiz.
 
-Desteklerimize ait görsellere [buradan](https://photos.app.goo.gl/TzLKzK24gqQfnTdAA) ulaşabilirsiniz.
+Desteklerimize ait görsellere <a href="https://photos.app.goo.gl/TzLKzK24gqQfnTdAA" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

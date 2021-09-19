@@ -11,4 +11,4 @@ Bursa Engelliler Kültür Derneği ailesi olarak engelli üyelerimizin her daim 
 
 Bizlere değer verip, sorunlarını paylaştıkları için tüm üyelerimize canı gönülden teşekkürlerimizi sunarız. Onların mutluluğu bizim mutluluğumuz.
 
-Toplantımıza ait görsellere [buradan](https://photos.app.goo.gl/MUAUM6LeLrUm4MjT9) ulaşabilirsiniz.
+Toplantımıza ait görsellere <a href="https://photos.app.goo.gl/MUAUM6LeLrUm4MjT9" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

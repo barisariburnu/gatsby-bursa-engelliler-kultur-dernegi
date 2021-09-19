@@ -9,4 +9,4 @@ featured: true
 
 Bursa Engelliler Kültür Derneği olarak düzenli olarak gerçekleştirdiğimiz erzak yardımlarını Mayıs ayında da sürdürdük. Bizlere maddi destekte bulunan yardımseverlerimize canı gönülden teşekkür ederiz.
 
-Desteklerimize ait görsellere [buradan](https://photos.app.goo.gl/DDiyZaTisNgX1EeJA) ulaşabilirsiniz.
+Desteklerimize ait görsellere <a href="https://photos.app.goo.gl/DDiyZaTisNgX1EeJA" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

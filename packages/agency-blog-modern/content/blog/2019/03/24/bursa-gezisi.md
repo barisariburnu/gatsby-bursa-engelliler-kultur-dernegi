@@ -10,4 +10,4 @@ Bursa Engelliler Kültür Derneği ailesi olarak Bursa gezisi düzenledik. Bu et
 
 Katılım sağlayan, özel sebeplerden dolayı aramızda olamayan tüm üyelerimize bizi yalnız bırakmadıkları için teşekkür ederiz. Onların mutluluğu bizim mutluluğumuz.
 
-Etkinliğimize ait görsellere [buradan](https://photos.app.goo.gl/juqLDJ1BgAfrF7zZ6) ulaşabilirsiniz.
+Etkinliğimize ait görsellere <a href="https://photos.app.goo.gl/juqLDJ1BgAfrF7zZ6" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.

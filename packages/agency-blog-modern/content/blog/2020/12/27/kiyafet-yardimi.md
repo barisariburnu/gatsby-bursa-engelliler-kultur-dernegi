@@ -11,4 +11,4 @@ Bursa Engelliler Kültür Derneği ailesi olarak Kovid-19'dan vefat eden üyemiz
 
 Çocuklarımızın giyim ihtiyaçlarını karşılayan hem üyemiz hem destekçimiz Şenol Ahmetoğlu’na desteklerinden dolayı canı gönülden teşekkür ederiz.
 
-Desteklerimize ait görsellere [buradan](https://photos.app.goo.gl/U8SaS1YDFkKXQYxM8) ulaşabilirsiniz.
+Desteklerimize ait görsellere <a href="https://photos.app.goo.gl/U8SaS1YDFkKXQYxM8" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.
