@@ -1,6 +1,6 @@
 ---
 title: Benim Gözümle Gez
-date: '2020-08-21'
+date: '2021-08-21'
 cover: 'benim-gozumle-gez.jpg'
 tags: ['destek']
 description: Bursa Engelliler Kültür Derneği olarak Benim Gözümle Gez ailesinden Özden Aşar Coşar öğretmenimiz ve değerli eşiyle bir araya geldik.

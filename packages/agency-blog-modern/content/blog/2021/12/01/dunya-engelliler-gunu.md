@@ -1,6 +1,6 @@
 ---
 title: Dünya Engelliler Günü
-date: '2020-12-01'
+date: '2021-12-01'
 cover: 'dunya-engelliler-gunu.jpg'
 tags: ['destek']
 description: Dünya Engelliler Günü, Birleşmiş Milletler tarafından 1992 yılından bu yana 3 Aralık'ta kutlanan uluslararası bir farkındalık günüdür.
