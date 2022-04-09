@@ -1,6 +1,6 @@
 ---
 title: Erzak Yardımı
-date: '2022-03-1105'
+date: '2022-03-10'
 cover: 'erzak-yardimi.jpg'
 tags: ['destek']
 description: Bursa Engelliler Kültür Derneği ailesi olarak Razaman ayı sebebiyle gerçekleştirilen erzak dağıtımlarımıza yardımsever iş insanlarımızın katkılarıyla Mart ayında başladık.
