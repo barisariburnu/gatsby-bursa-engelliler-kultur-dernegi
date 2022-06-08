@@ -7,7 +7,7 @@ description: Bursa Engelliler Kültür Derneği ailesi olarak Rahmiye Malcıoğl
 featured: true
 ---
 
-Bursa Engelliler Kültür Derneği ailesi olarak Rahmiye Malcıoğlu İlkokulu'nun daveti üzerine öğrencilerimizle engelliler haftası etkinlikleri kapsamında bir araya geldik. Engellilerimizin gündelik yaşamı ve karşılan fiziksel zorluklarla başa çıkma biçimlerini hem teorik hem uygulamalı olarak tecrübe ettik.
+Bursa Engelliler Kültür Derneği ailesi olarak Rahmiye Malcıoğlu İlkokulu'nun daveti üzerine öğrencilerimizle engelliler haftası etkinlikleri kapsamında bir araya geldik. Engellilerimizin gündelik yaşamı ve karşılaşılan fiziksel zorluklarla başa çıkma biçimlerini hem teorik hem uygulamalı olarak tecrübe ettik.
 
 Öğrencilerimizle buluşmamıza imkan sağlayan Rahmiye Malcıoğlu İlkokulu yöneticilerimize, bizleri davet eden ve en iyi şekilde ağırlayan kıymetli Sibel Efe öğretmenimize ve etkinlik bilinci içerisinde bizleri yalnız bırakmayan değerli üyelerimize canı gönülden teşekkür ederiz.
 
