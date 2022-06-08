@@ -1,5 +1,5 @@
 ---
-title: Askerlik
+title: Engelliler Haftası - Askerlik Etkinliği
 date: '2022-05-16'
 cover: 'askerlik.jpg'
 tags: ['etkinlik']
