@@ -34,10 +34,6 @@ const MenuItems = [
     url: '/bizden-haberler',
   },
   {
-    label: 'Konser',
-    url: 'https://donate.stripe.com/5kAaFV9GtglW71m7st?locale=tr',
-  },
-  {
     label: 'Bize Ulaşın',
     url: '/bize-ulasin',
   },
