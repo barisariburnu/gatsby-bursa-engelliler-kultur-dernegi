@@ -64,6 +64,12 @@ const Contact: React.SFC<{}> = () => {
                   Türkiye Cumhuriyeti vatandaşı olan tüm engellilerin dayanışmasını sağlamak amacıyla kurulmuştur.
                   Soru ve görüşleriniz için bize yazın.
                 </p>
+                <h3>Adres</h3>
+                <p>Kayhan Mahallesi İnönü Caddesi Sönmez İş Merkezi Kat: 3 Ofis No: 228 Osmangazi/Bursa</p>
+                <h3>İletişim</h3>
+                <p>Hüseyin Arıburnu: 0532 448 29 96 (Yönetim Kurulu Başkanı)</p>
+                <h3>E-mail</h3>
+                <p>bursaengellilerkulturdernegi@gmail.com</p>
               </ContactPageTitle>
               <ContactFromWrapper>
                 <InputGroup>
