@@ -4,6 +4,9 @@ import Image from 'gatsby-image';
 import SocialProfile from '../../components/social-profile/social-profile';
 import {
   IoLogoFacebook,
+  IoLogoTwitter,
+  IoLogoInstagram,
+  IoLogoLinkedin,
   IoMdGlobe,
 } from 'react-icons/io';
 import {
@@ -14,25 +17,58 @@ import {
   SocialProfiles,
 } from './style';
 
-const SocialLinks = [
-  {
-    icon: <IoMdGlobe />,
-    url: 'https://bursaengellilerkulturdernegi.com',
-    tooltip: 'Resmi Web Sayfası',
-  },
-  {
-    icon: <IoLogoFacebook />,
-    url: 'https://facebook.com/Bursa-Engelliler-K%C3%BClt%C3%BCr-Derne%C4%9Fi-724123230988082/',
+const getSocialLinks = () => {
+  const links = [];
+
+  if (process.env.SITE_URL) {
+    links.push({
+      icon: & lt; IoMdGlobe /& gt;,
+    url: process.env.SITE_URL,
+      tooltip: 'Website',
+    });
+}
+
+if (process.env.FACEBOOK_URL) {
+  links.push({
+    icon: & lt; IoLogoFacebook /& gt;,
+  url: process.env.FACEBOOK_URL,
     tooltip: 'Facebook',
-  },
-];
+    });
+  }
+
+if (process.env.TWITTER_URL) {
+  links.push({
+    icon: & lt; IoLogoTwitter /& gt;,
+  url: process.env.TWITTER_URL,
+    tooltip: 'Twitter',
+    });
+  }
+
+if (process.env.INSTAGRAM_URL) {
+  links.push({
+    icon: & lt; IoLogoInstagram /& gt;,
+  url: process.env.INSTAGRAM_URL,
+    tooltip: 'Instagram',
+    });
+  }
+
+if (process.env.LINKEDIN_URL) {
+  links.push({
+    icon: & lt; IoLogoLinkedin /& gt;,
+  url: process.env.LINKEDIN_URL,
+    tooltip: 'LinkedIn',
+    });
+  }
+
+return links;
+};
 
 interface CampaignProps { }
 
-const Campaign: React.FunctionComponent<CampaignProps> = () => {
+const Campaign: React.FunctionComponent & lt; CampaignProps & gt; = () =& gt; {
   const Data = useStaticQuery(graphql`
     query {
-      avatar: file(absolutePath: { regex: "/kurumsal.jpg/" }) {
+      avatar: file(absolutePath: { regex: "/campaign.(jpg|jpeg|png)/" }) {
         childImageSharp {
           fluid(maxWidth: 1770, quality: 90) {
             ...GatsbyImageSharpFluid
@@ -48,50 +84,60 @@ const Campaign: React.FunctionComponent<CampaignProps> = () => {
     }
   `);
 
+  const SocialLinks = getSocialLinks();
+
   return (
-    <CampaignWrapper>
-      <CampaignPageTitle>
-        <h2>Plastik Kapak Projesi</h2>
-        <p>
-          Engelli bireyin tek başına hareket etmesini, özgürce gezmesini, alışveriş yapabilmesini ve yaşadığı dünyayı
-          keşfetmesini sağlayabilirsiniz. İçtiğiniz su şişesinin ya da damacananın, zeytinyağınızın, meşrubatınızın kapağını atmak
-          yerine biriktirirseniz sizler de engelli vatandaşlarımızın hayatlarına özgürce devam etmelerine yardımcı olabilirsiniz.
-        </p>
-      </CampaignPageTitle>
+    & lt; CampaignWrapper & gt;
+      & lt; CampaignPageTitle & gt;
+        & lt; h2 & gt;Our Campaign & lt;/h2&gt;
+        & lt; p & gt;
+          Join us in making a difference.Learn more about our current campaign and how you can contribute
+          to create positive change in our community.
+        & lt;/p&gt;
+      & lt;/CampaignPageTitle&gt;
 
-      <CampaignImage>
-        <Image fluid={Data.avatar.childImageSharp.fluid} alt="Bursa Engelliler Kültür Derneği" />
-      </CampaignImage>
+  {
+    Data.avatar & amp;& amp; (
+        & lt; CampaignImage & gt;
+          & lt; Image
+    fluid = { Data.avatar.childImageSharp.fluid }
+    alt = "Campaign"
+      /& gt;
+        & lt;/CampaignImage&gt;
+      )
+  }
 
-      <CampaignDetails>
-        <p>
-          Her gün Türkiye çapında belki de tonlarcası çöpe atılıp kaybolup giden plastik kapakların geri dönüştürülmesi için bize destek olun.
-          İçtiğiniz su şişesinin ya da damacananın, zeytinyağınızın, meşrubatınızın kapağını atmak yerine biriktirirseniz sizler de
-          engelli vatandaşlarımızın özgür kalmasına  yardımcı olabilirsiniz.
-        </p>
-        <p>
-          Bursa Engelliler Kültür Derneği olarak yürüttüğümüz bu kampanyada toplanan kapakların geri dönüşümü sayesinde elde edilecek gelirin tamamı;
-          şu anda tedavi görmeyi bekleyen onlarca kişiyi hayatla buluşturacak.
-        </p>
+      & lt; CampaignDetails & gt;
+        & lt; p & gt;
+          Every day, we work towards our mission of creating meaningful impact.Your support can make
+          a real difference in achieving our goals and helping those in need.
+        & lt;/p&gt;
+        & lt; p & gt;
+          Through this campaign, we aim to raise awareness and gather resources that will directly
+          benefit our community.Every contribution, no matter how small, helps us move closer to our objectives.
+        & lt;/p&gt;
 
-        <h2>Kapaklar nasıl iyiliğe dönüşüyor?</h2>
-        <p>
-          Bursa Engelliler Kültür Derneği'ne ulaşan kapaklar önce tartılır ardından gönderen kişinin iletişim bilgileri ile kayıt altına alınır.
-          Daha sonra içindeki yabancı maddelerden ayrıştırılan kapaklar anlaşmalı geri dönüşüm firmasına tekrar tartılarak ve faturalandırılarak
-          teslim edilir. Elde edilen gelir, derneğin kurumsal hesabı aracılığı ile teslim alınarak engelli bireylerin sağlık, kiyafet ve gıda
-          ihtiyaçları karşılanır.
-        </p>
+        & lt; h2 & gt;How It Works & lt;/h2&gt;
+        & lt; p & gt;
+          Our campaign follows a transparent process to ensure that all contributions are used effectively
+          and responsibly.We keep our supporters informed every step of the way, providing regular updates
+          on our progress and impact.
+        & lt;/p&gt;
 
-        <p>
-          Engelli bireylerin hayatlarına nasıl katkıda bulunduğumuz hakkında detaylı bilgi almak için
-          <a href='/kurumsal'> bu sayfayı </a> ziyaret edebilirsiniz. Siz de engelli üyelerimizin hayatlarına umutla dokunmak için
-          <a href='/bize-ulasin'> bize ulaşabilirsiniz</a>.
-        </p>
-        <SocialProfiles>
-          <SocialProfile items={SocialLinks} />
-        </SocialProfiles>
-      </CampaignDetails>
-    </CampaignWrapper>
+        & lt; p & gt;
+          To learn more about our work and impact, visit our & lt;a href = '/about' & gt;about page & lt;/a&gt;.
+          If you'd like to get involved or have questions, feel free to &lt;a href=' / contact'&gt;contact us&lt;/a&gt;.
+    & lt;/p&gt;
+
+  {
+    SocialLinks.length & gt; 0 & amp;& amp; (
+          & lt; SocialProfiles & gt;
+            & lt;SocialProfile items = { SocialLinks } /& gt;
+          & lt;/SocialProfiles&gt;
+        )
+  }
+      & lt;/CampaignDetails&gt;
+    & lt;/CampaignWrapper&gt;
   );
 };
 
