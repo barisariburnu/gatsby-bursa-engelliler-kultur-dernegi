@@ -32,11 +32,11 @@
     "packages/*"
   ],
   "scripts": {
-    "clean": "lerna clean --yes && rimraf node_modules",
-    "clean:gatsby": "lerna run --parallel clean",
-    "dev:agency-modern": "yarn workspace @blog/modern-agency develop",
-    "build:agency-modern": "yarn workspace @blog/modern-agency build",
-    "serve:agency-modern": "yarn workspace @blog/modern-agency serve"
+    "clean": "bun x lerna clean --yes && rimraf node_modules",
+    "clean:gatsby": "bun x lerna run --parallel clean",
+    "dev:agency-modern": "bun --filter @blog/modern-agency develop",
+    "build:agency-modern": "bun --filter @blog/modern-agency build",
+    "serve:agency-modern": "bun --filter @blog/modern-agency serve"
   },
   "devDependencies": {
     "husky": "^4.3.0",
