@@ -1,5 +1,5 @@
 ---
-title: Erzak Yardımı
+title: Erzak Yardımı (Ağustos)
 date: '2020-08-16'
 cover: 'erzak-yardimi.jpg'
 tags: ['destek']
@@ -7,6 +7,9 @@ description: Bursa Engelliler Kültür Derneği ailesi olarak düzenli olarak ge
 featured: true
 ---
 
-Bursa Engelliler Kültür Derneği olarak düzenli olarak gerçekleştirdiğimiz erzak yardımlarını Ağustos ayında da sürdürdük. Bizlere maddi destekte bulunan yardımseverlerimize canı gönülden teşekkür ederiz.
+Bursa Engelliler Kültür Derneği olarak, toplumsal dayanışmanın en güzel örneklerinden biri olan erzak yardımı faaliyetlerimizi Ağustos ayında da kesintisiz bir şekilde sürdürdük. İhtiyaç sahibi engelli üyelerimizin sofralarına katkıda bulunmak adına düzenli olarak gerçekleştirdiğimiz bu çalışmalar, yardımlaşma ruhumuzun temelini oluşturmaktadır.
 
-Yardımımıza ait görsellere <a href="https://photos.app.goo.gl/h6q8zQc4MkLQDjZa9" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.
+## Dayanışma ile Güçleniyoruz
+Paylaşmanın önemini her fırsatta dile getiriyor ve üyelerimizin yanındaki destekçi güç olmaya gayret ediyoruz. Bu zorlu süreçlerde bir elin verdiğini diğer elin görmediği bir hassasiyetle hareket ederek, ihtiyaçların doğru yerlere ulaşmasını sağlıyoruz.
+
+Bize maddi ve manevi destek sağlayarak bu iyilik kervanına katılan tüm yardımseverlerimize canı gönülden teşekkürlerimizi sunarız. Sizlerin katkılarıyla soframız da, gönlümüz de daha bereketli.

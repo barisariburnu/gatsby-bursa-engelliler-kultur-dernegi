@@ -1,10 +1,16 @@
 ---
-title: Erzak Yardımı
+title: Erzak Yardımı (Nisan)
 date: '2021-04-15'
 cover: 'erzak-yardimi.jpg'
 tags: ['destek']
-description: Bursa Engelliler Kültür Derneği ailesi olarak düzenli olarak gerçekleştirdiğimiz erzak yardımlarını Nisan ayında da sürdürdük.
+description: Nisan ayı erzak yardımlarıyla, Ramazan öncesi üyelerimizin gıda stoklarına katkıda bulunmayı hedefledik.
 featured: true
 ---
 
-Bursa Engelliler Kültür Derneği olarak düzenli olarak gerçekleştirdiğimiz erzak yardımlarını Nisan ayında da sürdürdük. Bizlere maddi destekte bulunan yardımseverlerimize canı gönülden teşekkür ederiz.
+Bursa Engelliler Kültür Derneği olarak, ihtiyaç sahibi engelli üyelerimiz için düzenlediğimiz aylık erzak yardımı faaliyetlerimize Nisan ayında da ara vermeden devam ettik. Ramazan ayının yaklaştığı bu günlerde, yardımlarımızı hızlandırarak üyelerimizin hazırlıklarına katkıda bulunduk.
+
+## Ramazan Bereketi Başlıyor
+İyiliğin paylaştıkça çoğaldığına inanıyor ve her kolide bir tebessüm sakladığımızı biliyoruz. Engelli vatandaşlarımızın yaşam kalitesini artıracak her türlü sosyal desteği organize etmeye kararlıyız.
+
+## Katkıda Bulunanlara Teşekkürler
+Bağışlarıyla üyelerimizin sofralarını şenlendiren tüm hayırsever iş insanlarımıza ve gönüllülerimize teşekkür ederiz.

@@ -1,14 +1,18 @@
 ---
-title: Kurban Yardımı
+title: Plaskal Ailesinden Anlamlı Kurban Bağışı
 date: '2021-06-08'
 cover: 'kurban-yardimi.jpg'
 tags: ['destek']
-description: Bursa Engelliler Kültür Derneği ailesi olarak destekçilerimiz tarafından kesilen kurbanlıkları eşit biçimde paylaştırarak ihtiyaç sahibi üyelerimize ulaştırdık.
+description: Daimi destekçimiz Plaskal Plastik ve Hakan Efe Bey'in bağışladığı kurban paylarını büyük bir titizlikle üyelerimize ulaştırdık.
 featured: true
 ---
 
-Bursa Engelliler Kültür Derneği ailesi olarak daimi destekçimiz Plaskal Plastik Kalıp San. Tic. Ltd. Şti. firması yöneticisi Hakan Efe Bey tarafından kesilen kurbanlık hayvanlarımızın eşit biçimde paylaştırdık ve pay dağıtımlarımızı gerçekleştirdik.
+Hizmet yolculuğumuzda bizleri hiçbir zaman yalnız bırakmayan kurumsal dostlarımızla büyümeye devam ediyoruz. Bursa Engelliler Kültür Derneği'nin daimi destekçilerinden biri olan Plaskal Plastik Kalıp San. Tic. Ltd. Şti. firması, bu yıl da anlamlı bir bağışla üyelerimizin sofralarına bereket kattı.
 
-Bizlere her daim maddi ve manevi desteklerini esirgemeyen Plaskal Plastik ailesine ve Hakan Efe beyefendiye desteklerinden ötürü canı gönülden teşekkür ederiz.
+## Titiz ve Şeffaf Paylaşım
+Firma yöneticisi Sayın Hakan Efe Bey tarafından derneğimize bağışlanan kurbanlıklar, İslami usullere uygun olarak kesilerek büyük bir titizlikle paylara bölündü. Hazırlanan paylar, önceden belirlenen ihtiyaç sahibi üyelerimize eşit bir şekilde dağıtılarak Kurban Bayramı'nın ruhu yaşatıldı.
+
+## Kurumsal Duyarlılık
+Sadece iş dünyasında değil, sosyal sorumluluk projelerinde de örnek bir duruş sergileyen Plaskal Plastik ailesine ve Sayın Hakan Efe beyefendiye, engelli camiasına gösterdikleri sarsılmaz destek ve vefa için tüm üyelerimiz adına teşekkür ederiz.
 
 Desteklerimize ait görsellere <a href="https://photos.app.goo.gl/rtRsfuGZJH1UqaNK9" target="_blank" rel="noopener noreferrer">buradan</a> ulaşabilirsiniz.
