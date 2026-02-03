@@ -1,5 +1,5 @@
 ---
-title: "Benim Gözümle Gez" Ekibiyle İlham Veren Buluşma
+title: '"Benim Gözümle Gez" Ekibiyle İlham Veren Buluşma'
 date: '2021-08-21'
 cover: 'benim-gozumle-gez.jpg'
 tags: ['destek', 'ziyaret']
