@@ -1,5 +1,5 @@
 ---
-title: Ramazan Bereketi: 2023 Yılı İlk Erzak Dağıtımı
+title: "Ramazan Bereketi: 2023 Yılı İlk Erzak Dağıtımı"
 date: '2023-03-15'
 cover: 'erzak-yardimi.jpg'
 tags: ['destek']

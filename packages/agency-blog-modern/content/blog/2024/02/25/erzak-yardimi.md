@@ -1,5 +1,5 @@
 ---
-title: İyilik Zinciri Devam Ediyor: 2024 Mart Erzak Yardımı
+title: "İyilik Zinciri Devam Ediyor: 2024 Mart Erzak Yardımı"
 date: '2024-02-25'
 cover: 'erzak-yardimi.jpg'
 tags: ['destek']

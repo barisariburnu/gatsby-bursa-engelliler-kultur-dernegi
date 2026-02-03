@@ -1,5 +1,5 @@
 ---
-title: Yuvanın Sıcaklığı: Eşya Yardımı ile Yaşam Koşulları İyileşiyor
+title: "Yuvanın Sıcaklığı: Eşya Yardımı ile Yaşam Koşulları İyileşiyor"
 date: '2021-05-20'
 cover: 'esya-yardimi.jpg'
 tags: ['destek']

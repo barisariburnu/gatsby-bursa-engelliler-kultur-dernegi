@@ -1,5 +1,5 @@
 ---
-title: Dayanışmanın Zaferi: Bir Ailenin Yüzü Güldü
+title: "Dayanışmanın Zaferi: Bir Ailenin Yüzü Güldü"
 date: '2021-04-10'
 cover: 'destek.jpg'
 tags: ['destek', 'başarı hikayesi']

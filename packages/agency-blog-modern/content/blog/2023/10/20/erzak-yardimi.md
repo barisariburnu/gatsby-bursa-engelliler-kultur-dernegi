@@ -1,5 +1,5 @@
 ---
-title: Kış Hazırlığı: Ekim Ayı Erzak Yardımı Dağıtımı
+title: "Kış Hazırlığı: Ekim Ayı Erzak Yardımı Dağıtımı"
 date: '2023-10-20'
 cover: 'erzak-yardimi.jpg'
 tags: ['destek']

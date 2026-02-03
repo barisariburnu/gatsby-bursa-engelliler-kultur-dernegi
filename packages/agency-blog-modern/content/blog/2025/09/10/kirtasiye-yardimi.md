@@ -1,5 +1,5 @@
 ---
-title: Eğitim Yolunda Engelsiz Destek: Kırtasiye Yardımları
+title: "Eğitim Yolunda Engelsiz Destek: Kırtasiye Yardımları"
 date: '2025-09-10'
 cover: 'kirtasiye-yardimi.jpg'
 tags: ['destek']

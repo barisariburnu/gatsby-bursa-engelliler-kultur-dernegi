@@ -1,5 +1,5 @@
 ---
-title: Eğitimde Engel Yok: Kırtasiye Yardımı
+title: "Eğitimde Engel Yok: Kırtasiye Yardımı"
 date: '2020-10-05'
 cover: 'kirtasiye-yardimi.jpg'
 tags: ['destek']

@@ -1,5 +1,5 @@
 ---
-title: 3 Aralık Dünya Engelliler Günü: Farkındalık ve Eğitim
+title: "3 Aralık Dünya Engelliler Günü: Farkındalık ve Eğitim"
 date: '2021-12-01'
 cover: 'dunya-engelliler-gunu.jpg'
 tags: ['destek', 'farkındalık']

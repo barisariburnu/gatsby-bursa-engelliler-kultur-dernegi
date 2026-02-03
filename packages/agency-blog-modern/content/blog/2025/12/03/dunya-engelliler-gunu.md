@@ -1,5 +1,5 @@
 ---
-title: 3 Aralık Dünya Engelliler Günü: Birlikte Daha Güçlüyüz
+title: "3 Aralık Dünya Engelliler Günü: Birlikte Daha Güçlüyüz"
 date: '2025-12-03'
 cover: 'dunya-engelliler-gunu.jpg'
 tags: ['etkinlik', 'farkındalık']

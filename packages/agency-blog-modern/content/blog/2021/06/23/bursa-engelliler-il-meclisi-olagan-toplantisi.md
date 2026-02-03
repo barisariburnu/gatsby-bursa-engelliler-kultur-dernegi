@@ -1,5 +1,5 @@
 ---
-title: Açık Havada İstişare: Haziran Ayı Olağan Toplantısı
+title: "Açık Havada İstişare: Haziran Ayı Olağan Toplantısı"
 date: '2021-06-23'
 cover: 'bursa-engelliler-il-meclisi-olagan-toplantisi.jpg'
 tags: ['etkinlik', 'toplanti']

@@ -1,5 +1,5 @@
 ---
-title: 2025 Engelliler Haftası: Engelsiz Gelecek Vizyonu
+title: "2025 Engelliler Haftası: Engelsiz Gelecek Vizyonu"
 date: '2025-05-12'
 cover: 'engelliler-haftasi.jpg'
 tags: ['etkinlik', 'farkındalık']

@@ -1,5 +1,5 @@
 ---
-title: Sorunlarımızı Paylaşıyoruz: Deva Partisi Yıldırım Ziyareti
+title: "Sorunlarımızı Paylaşıyoruz: Deva Partisi Yıldırım Ziyareti"
 date: '2022-03-26'
 cover: 'deva-partisi-etkinlik.jpg'
 tags: ['etkinlik', 'savunuculuk']

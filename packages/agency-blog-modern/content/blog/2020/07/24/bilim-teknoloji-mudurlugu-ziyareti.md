@@ -1,5 +1,5 @@
 ---
-title: Geleceğin Teknolojisi: Robotik Kodlama Müfredatı ve Kurumsal Ziyaretler
+title: "Geleceğin Teknolojisi: Robotik Kodlama Müfredatı ve Kurumsal Ziyaretler"
 date: '2020-07-24'
 cover: 'bilim-teknoloji-mudurlugu-ziyareti.jpg'
 tags: ['etkinlik', 'ziyaret', 'teknoloji']

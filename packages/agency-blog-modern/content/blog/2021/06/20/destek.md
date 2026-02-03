@@ -1,5 +1,5 @@
 ---
-title: Bir Yuva Daha Kuruldu: Evsiz Kalan Üyemize Destek Yağdı
+title: "Bir Yuva Daha Kuruldu: Evsiz Kalan Üyemize Destek Yağdı"
 date: '2021-06-20'
 cover: 'destek.jpg'
 tags: ['destek', 'başarı hikayesi']

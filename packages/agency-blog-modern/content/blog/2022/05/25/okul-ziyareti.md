@@ -1,5 +1,5 @@
 ---
-title: Gelecek Nesillerle Buluşma: Rahmiye Malcıoğlu İlkokulu Ziyareti
+title: "Gelecek Nesillerle Buluşma: Rahmiye Malcıoğlu İlkokulu Ziyareti"
 date: '2022-05-16'
 cover: 'okul-ziyareti.jpg'
 tags: ['etkinlik', 'farkındalık']

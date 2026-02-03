@@ -1,5 +1,5 @@
 ---
-title: Yerel Yönetimle İstişare: Ulaş Akhan Ziyareti
+title: "Yerel Yönetimle İstişare: Ulaş Akhan Ziyareti"
 date: '2020-09-16'
 cover: 'bursa-buyuksehir-belediyesi-genel-sekreter-ziyareti.jpg'
 tags: ['etkinlik', 'ziyaret']

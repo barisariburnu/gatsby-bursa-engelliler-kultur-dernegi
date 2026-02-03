@@ -1,5 +1,5 @@
 ---
-title: Bir Aile, Dört Engel: Dayanışma ve Destek Çağrısı
+title: "Bir Aile, Dört Engel: Dayanışma ve Destek Çağrısı"
 date: '2021-03-22'
 cover: 'destek-duyurusu.jpg'
 tags: ['destek', 'yardım çağrısı']

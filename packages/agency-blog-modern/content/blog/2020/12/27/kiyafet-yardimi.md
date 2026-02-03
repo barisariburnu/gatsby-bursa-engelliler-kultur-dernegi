@@ -1,5 +1,5 @@
 ---
-title: Vefa ve Dayanışma: Ali Cin Üyemizin Evlatlarına Emanet Desteği
+title: "Vefa ve Dayanışma: Ali Cin Üyemizin Evlatlarına Emanet Desteği"
 date: '2020-12-15'
 cover: 'kiyafet-yardimi.jpg'
 tags: ['destek', 'dayanışma']

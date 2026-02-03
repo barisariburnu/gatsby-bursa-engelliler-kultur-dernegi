@@ -1,5 +1,5 @@
 ---
-title: Ramazan Bereketi ve Gönül Birliği: 2024 İftarımız
+title: "Ramazan Bereketi ve Gönül Birliği: 2024 İftarımız"
 date: '2024-04-05'
 cover: 'iftar.jpg'
 tags: ['etkinlik', 'iftar']

@@ -1,5 +1,5 @@
 ---
-title: Engelli Hakları Rehberi: Mevcut Durum ve Beklentiler
+title: "Engelli Hakları Rehberi: Mevcut Durum ve Beklentiler"
 date: '2021-08-10'
 cover: 'engelli-haklari.jpg'
 tags: ['bilgilendirme', 'yasal haklar']

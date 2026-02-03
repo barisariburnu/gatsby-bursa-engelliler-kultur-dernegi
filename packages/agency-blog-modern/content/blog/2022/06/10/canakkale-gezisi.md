@@ -1,5 +1,5 @@
 ---
-title: Çanakkale'de Tarihin İzinde: 2022 Yılı Gezisi
+title: "Çanakkale'de Tarihin İzinde: 2022 Yılı Gezisi"
 date: '2022-06-04'
 cover: 'canakkale-gezisi.jpg'
 tags: ['etkinlik', 'gezi']

@@ -1,5 +1,5 @@
 ---
-title: Yeni Yıla İyilikle Başladık: 2024 Ocak Erzak Yardımı
+title: "Yeni Yıla İyilikle Başladık: 2024 Ocak Erzak Yardımı"
 date: '2024-01-15'
 cover: 'erzak-yardimi.jpg'
 tags: ['destek']

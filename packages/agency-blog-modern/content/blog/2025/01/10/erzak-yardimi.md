@@ -1,5 +1,5 @@
 ---
-title: 2025 Yılına Dayanışma ile Başladık: Ocak Erzak Yardımı
+title: "2025 Yılına Dayanışma ile Başladık: Ocak Erzak Yardımı"
 date: '2025-01-10'
 cover: 'erzak-yardimi.jpg'
 tags: ['destek']

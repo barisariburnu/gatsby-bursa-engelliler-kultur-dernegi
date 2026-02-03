@@ -1,5 +1,5 @@
 ---
-title: Dayanışmanın Gücü: Hatice Hanım İçin Ameliyat Bağışı Tamamlandı
+title: "Dayanışmanın Gücü: Hatice Hanım İçin Ameliyat Bağışı Tamamlandı"
 date: '2019-12-14'
 cover: 'ameliyat-bagisi.jpg'
 tags: ['duyuru', 'destek', 'dayanışma']

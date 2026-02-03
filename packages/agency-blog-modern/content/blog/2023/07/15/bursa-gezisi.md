@@ -1,5 +1,5 @@
 ---
-title: Bursa'nın Tarihine Yolculuk: Üyelerimizle Şehir Gezisi
+title: "Bursa'nın Tarihine Yolculuk: Üyelerimizle Şehir Gezisi"
 date: '2023-07-15'
 cover: 'bursa-gezisi.jpg'
 tags: ['etkinlik', 'gezi']

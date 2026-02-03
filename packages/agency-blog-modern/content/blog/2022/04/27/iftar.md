@@ -1,5 +1,5 @@
 ---
-title: Birlik ve Beraberlik Sofrası: 200 Kişilik İftar Buluşması
+title: "Birlik ve Beraberlik Sofrası: 200 Kişilik İftar Buluşması"
 date: '2022-04-27'
 cover: 'iftar.jpg'
 tags: ['etkinlik']

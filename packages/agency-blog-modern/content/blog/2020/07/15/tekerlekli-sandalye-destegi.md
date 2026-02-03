@@ -1,5 +1,5 @@
 ---
-title: Özgürlüğe Atılan Adım: Tekerlekli Sandalye Yardımı
+title: "Özgürlüğe Atılan Adım: Tekerlekli Sandalye Yardımı"
 date: '2020-07-15'
 cover: 'tekerlekli-sandalye-destegi.jpg'
 tags: ['destek']

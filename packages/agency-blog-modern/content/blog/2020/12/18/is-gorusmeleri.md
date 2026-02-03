@@ -1,5 +1,5 @@
 ---
-title: Engelli İstihdamı: Geleceğe Güvenle Bakmak
+title: "Engelli İstihdamı: Geleceğe Güvenle Bakmak"
 date: '2020-12-15'
 cover: 'is-gorusmeleri.jpg'
 tags: ['destek', 'istihdam']

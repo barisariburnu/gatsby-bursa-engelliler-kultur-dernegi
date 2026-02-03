@@ -1,5 +1,5 @@
 ---
-title: Ramazan'ın Bereketi: 2025 Yılı Geleneksel İftarımız
+title: "Ramazan'ın Bereketi: 2025 Yılı Geleneksel İftarımız"
 date: '2025-03-15'
 cover: 'iftar.jpg'
 tags: ['etkinlik', 'iftar']

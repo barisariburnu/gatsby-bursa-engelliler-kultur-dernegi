@@ -1,5 +1,5 @@
 ---
-title: "Temsili Askerlik" Gururu: Bir Günlük Askerlik Etkinliği
+title: '"Temsili Askerlik" Gururu: Bir Günlük Askerlik Etkinliği'
 date: '2022-05-16'
 cover: 'askerlik.jpg'
 tags: ['etkinlik']
