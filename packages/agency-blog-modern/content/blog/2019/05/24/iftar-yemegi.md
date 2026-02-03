@@ -1,12 +1,16 @@
 ---
-title: Hürriyet Anadolu Lisesi Semineri
+title: İftar Yemeği (Kültürpark)
 date: '2019-05-24'
 cover: 'iftar-yemegi.jpg'
 tags: ['etkinlik']
-description: Bursa Engelliler Kültür Derneği ailesi olarak Ramazan ayı etkinliği olarak engelli üyelerimiz ve aileleriyle birlikte Merinos parkındaki iftar yemeğinde biraraya geldik.
+description: Ramazan ayının bereketini bu kez Kültürpark Salon Medya'da düzenlenen iftar yemeğimizde üyelerimiz ve aileleriyle paylaştık.
 featured: true
 ---
 
-Bursa Engelliler Kültür Derneği ailesi olarak Ramazan ayı etkinliği olarak engelli üyelerimiz ve aileleriyle birlikte Kültürpark Salon Medya'da iftar yemeğinde biraraya geldik.
+Ramazan ayının manevi huzurunu paylaşmaya devam ediyoruz. Bursa Engelliler Kültür Derneği olarak, bu kez Kültürpark Salon Medya'nın ev sahipliğinde düzenlenen iftar yemeğinde kıymetli üyelerimiz ve aileleriyle bir araya geldik.
 
-Bu etkinliğin gerçekleştirilmesi için bizlere destek olan tüm sponsorlarımıza ve tabi ki en önemlisi bizleri bu yemekte yalnız bırakmayan değerli üyelerimize canı gönülden teşekkür ederiz.
+## Paylaşmanın Mutluluğu
+İftar soframızda paylaştığımız her lokma, birliğimizi ve beraberliğimizi daha da perçinliyor. Engelli bireyler ve aileleri için sosyal etkileşimin en güzel örneklerinden birini sergilediğimiz bu akşamda, Ramazan'ın birleştirici gücünü bir kez daha hissettik.
+
+## Destekçilerimize Teşekkür
+Bu güzel organizasyonun gerçekleşmesine katkı sunan değerli sponsorlarımıza ve katılımıyla soframızı onurlandıran tüm üyelerimize şükranlarımızı sunarız. Birlikte daha nice bayramlara ve güzel akşamlara ulaşmayı temenni ediyoruz.
