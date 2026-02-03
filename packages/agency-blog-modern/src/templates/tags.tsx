@@ -6,16 +6,16 @@ import SEO from '../components/seo';
 import { TagPostsWrapper, TagPageHeading, TagName } from './templates.style';
 
 const Tags = ({ pageContext, data }: any) => {
-  const { tag } = pageContext;
+  const { tagName } = pageContext;
   const { edges, totalCount } = data.allMarkdownRemark;
 
   return (
     <Layout>
-      <SEO title={tag} description={`${totalCount} gönderi`} />
+      <SEO title={tagName} description={`${totalCount} gönderi`} />
 
       <TagPostsWrapper>
         <TagPageHeading>
-          <TagName>{tag}</TagName>
+          <TagName>{tagName}</TagName>
           {`${totalCount} gönderi bulundu`}
         </TagPageHeading>
         {edges.map(({ node, index }: any) => (
@@ -36,11 +36,11 @@ const Tags = ({ pageContext, data }: any) => {
 export default Tags;
 
 export const pageQuery = graphql`
-  query($tag: String) {
+  query($tagName: String) {
     allMarkdownRemark(
       limit: 2000
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { tags: { in: [$tag] } } }
+      filter: { frontmatter: { tags: { in: [$tagName] } } }
     ) {
       totalCount
       edges {

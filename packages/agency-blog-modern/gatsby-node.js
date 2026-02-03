@@ -92,7 +92,7 @@ exports.createPages = ({ graphql, actions }) => {
                 path: `/etiket/${_.kebabCase(tag)}/`,
                 component: tagTemplate,
                 context: {
-                    tag,
+                    tagName: tag,
                 },
             });
         });

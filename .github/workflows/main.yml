@@ -11,7 +11,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     env:
@@ -26,6 +26,11 @@ jobs:
 
       - name: Setup kernel for gatsby, increase watchers
         run: echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '14'
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v1
